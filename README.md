@@ -7,6 +7,4 @@
 - 💬 Ask me about ...anything you wish!
 - 📫 How to reach me: ...[insta](https://www.instagram.com/roshan._.mehta/)
 
--Projects:
-https://microsoft-team-clone-roshan.herokuapp.com/
 
