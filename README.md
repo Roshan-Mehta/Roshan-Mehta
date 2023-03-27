@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ...Not working!Studying :P
-- 🌱 I’m currently learning ...Node Js
-- 💬 Ask me about ...anything you wish!
-- 📫 How to reach me: ...[insta](https://www.instagram.com/roshan._.mehta/)
+- 🔭 Studying :P
+- 🌱 I’m currently learning Blockchain 
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/roshan-mehta/)
 
 
